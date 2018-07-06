@@ -27,7 +27,7 @@ For syntax and other help on this configuration file, please go to:     https://
 
 * This file can define ordinary reports, scheduled reports, and alerts.
 
-* The alerts taken from the Web Terminal app using the command "btool savedsearches list     --app=APPNAME" can be copied and pasted. These alerts should be put into the default       savedsearches conf file.
+* The alerts taken from the Web Terminal app using the command "btool savedsearches list --app=APPNAME" can be copied and pasted. These alerts should be put into the default savedsearches conf file.
 
 * You must restart Splunk to enable configurations. You can also use the web terminal and   the command:
 
@@ -41,7 +41,7 @@ For syntax and other help on this configuration file, please go to: https://docs
 
 * Use this file to set up UI views (such as charts).
 
-* This file should not be touched, as it is an old configuration file whose function was     moved to savedsearches.conf.
+* This file should not be touched, as it is an old configuration file whose function was moved to savedsearches.conf.
 
 * To use this configuration, copy the configuration block into
   viewstates.conf in $SPLUNK_HOME/etc/system/local/. You must restart Splunk
