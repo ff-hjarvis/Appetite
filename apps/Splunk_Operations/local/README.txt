@@ -1,4 +1,4 @@
-
+test
 To learn more about configuration files (including precedence) please see the
 documentation located at
 http://docs.splunk.com/Documentation/Splunk/latest/Admin/Aboutconfigurationfiles
