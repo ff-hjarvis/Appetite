@@ -1,2 +1,2 @@
 CommitID,Environment,Application,DeploymentMethod,Whitelist,Blacklist,Comments
-f7f787a,LOCAL,Splunk_Operations,StandAlone_FirstRun,splunk-ds001-0c,",",Test server for Appetite
+f7f787a,LOCAL,Splunk_Operations,DeploymentServer,splunk-ds001-0c,",",Test server for Appetite
