@@ -1,2 +1,2 @@
 CommitID,Environment,Application,DeploymentMethod,Whitelist,Blacklist,Comments
-1b40b10,LOCAL,Splunk_Operations,CasualPush,splunk-ds001-0c:10.123.250,",",Test server for Appetite
+b05d7b5,LOCAL,Splunk_Operations,CasualPush,splunk-ds001-0c:10.123.10.250,",",Test server for Appetite
