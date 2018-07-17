@@ -1,5 +1,5 @@
 <form>
-  <label>Buttercup Games Sales</label>
+  <label>Shaved Camel</label>
   <description>Reports on Buttercup Games purchase data.</description>
   <fieldset submitButton="false" autoRun="false">
     <input type="time" token="BG_Purchases_Time_Range">
