@@ -8,3 +8,5 @@ lastchange
 hopefullylastchange
 verylastchange 
 last change
+
+This indicates the skip-repo-trigger and no-strict-commitids are working properly.
