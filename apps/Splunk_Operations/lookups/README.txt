@@ -1,4 +1,3 @@
-
 This is where all the lookup files go. 
 To add or alter configuration files, follow the links below. To make your lookup automatic, please follow the link at the bottom of this file.
 
