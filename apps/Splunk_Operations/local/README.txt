@@ -1,4 +1,4 @@
-
+test
 To learn more about configuration files (including precedence) please see the
 documentation located at
 http://docs.splunk.com/Documentation/Splunk/latest/Admin/Aboutconfigurationfiles
@@ -6,6 +6,7 @@ http://docs.splunk.com/Documentation/Splunk/latest/Admin/Aboutconfigurationfiles
 NOTE: The configuration files in the default directory are the ones shipped with the app, that will be overwritten next time an upgrade will be applied. The configuration files in the local directory are for modifications to the alerts done in Splunk and is generally used for testing.
 
 You should put all alerts and dashboards into the files inside the default directory.
+change
 
 [app]
 
